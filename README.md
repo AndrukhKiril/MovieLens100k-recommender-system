@@ -21,7 +21,7 @@ After we applied the filter to the dataset, it was not hard to train kNN and fin
 
 The result look like a basic assumption on the person's interests.
 
-![knn](https://imgur.com/OAaTczL)
+![knn](https://imgur.com/OAaTczL.jpg)
 
 ## Matrix Factorization
 
@@ -31,4 +31,4 @@ We had to introduce mapping for our movies to interpret the results, since Matri
 
 The results looked a bit more interesting
 
-![svd](https://imgur.com/XdAlyof)
+![svd](https://imgur.com/XdAlyof.jpg)
